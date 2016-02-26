@@ -1,0 +1,10 @@
+{
+  "name": "PraticeConsole",
+  "version": "0.0.0",
+  "description": "PraticeConsole",
+  "main": "app.js",
+  "author": {
+    "name": "StanChung",
+    "email": ""
+  }
+}
